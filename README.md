@@ -1,2 +1,2 @@
-# fokin-weather
+# Fokin Weather
 Weather App
